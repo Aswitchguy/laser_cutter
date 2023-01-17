@@ -89,8 +89,6 @@ class Path{
   
 };
 
-void step(
-
 void moveLine(Path path){
   Vector3 startPos = path.getStart();
   Vector3 endPos = path.getEnd();
